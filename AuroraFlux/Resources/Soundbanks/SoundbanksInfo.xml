@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" SchemaVersion="9">
+	<RootPaths>
+		<ProjectRoot>C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\</ProjectRoot>
+		<SourceFilesRoot>C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<Arguments />
+	<DialogueEvents />
+	<StreamedFiles />
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedEvents />
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles />
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+		<SoundBank Id="1661994096" Language="SFX">
+			<ShortName>SoundBank</ShortName>
+			<Path>SoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3864097025" Name="Pause_All" />
+				<Event Id="415413611" Name="Play_DX_GoodJob" />
+				<Event Id="318880729" Name="Play_DX_OnYourSix" />
+				<Event Id="3070217239" Name="Play_DX_OutOfBounds" />
+				<Event Id="2200931677" Name="Play_FX_AsteroidExplosion" />
+				<Event Id="2777301798" Name="Play_FX_BossEntrance" />
+				<Event Id="2760604581" Name="Play_FX_Checkpoint" />
+				<Event Id="3537667104" Name="Play_FX_CountDown" />
+				<Event Id="3657685942" Name="Play_FX_EnemyExplosion" />
+				<Event Id="593813302" Name="Play_FX_EnemyLaserFire" />
+				<Event Id="3452370872" Name="Play_FX_EnemyMissleFire" />
+				<Event Id="2684977403" Name="Play_FX_EnemyThrust" />
+				<Event Id="3233870986" Name="Play_FX_HydraLaser" />
+				<Event Id="3611713066" Name="Play_FX_HydraLaserCharge" />
+				<Event Id="419499318" Name="Play_FX_HydraLaserFire" />
+				<Event Id="2604073440" Name="Play_FX_HydraLaserPeashooter" />
+				<Event Id="123759940" Name="Play_FX_HydraPlanetDestroyed" />
+				<Event Id="1935404700" Name="Play_FX_HydraSheildGenDown" />
+				<Event Id="2758416225" Name="Play_FX_HydraShieldHit" />
+				<Event Id="2656618108" Name="Play_FX_HydraTimerOut" />
+				<Event Id="3544485011" Name="Play_FX_HyperSpace" />
+				<Event Id="2879173968" Name="Play_FX_LaserHitMetal" />
+				<Event Id="2859429368" Name="Play_FX_LaserHitRock" />
+				<Event Id="1812274575" Name="Play_FX_LockOnWarning" />
+				<Event Id="3106868597" Name="Play_FX_MenuItemCancel" />
+				<Event Id="3788741585" Name="Play_FX_MenuItemConfirm" />
+				<Event Id="3592200831" Name="Play_FX_MenuItemPlayGame" />
+				<Event Id="3717757135" Name="Play_FX_MenuItemSwitch" />
+				<Event Id="1371451371" Name="Play_FX_MissleExplosion" />
+				<Event Id="1196141804" Name="Play_FX_MissleLockOn" />
+				<Event Id="4203598113" Name="Play_FX_MissleReload" />
+				<Event Id="82885510" Name="Play_FX_MissleTravel" />
+				<Event Id="4087504162" Name="Play_FX_ModeChange" />
+				<Event Id="93130902" Name="Play_FX_PlayerDeath" />
+				<Event Id="1462850981" Name="Play_FX_PlayerDodge" />
+				<Event Id="3201988117" Name="Play_FX_PlayerFullHealth" />
+				<Event Id="4006367544" Name="Play_FX_PlayerHullHit" />
+				<Event Id="4293324262" Name="Play_FX_PlayerIdle" />
+				<Event Id="2647134149" Name="Play_FX_PlayerLaserFire" />
+				<Event Id="3258827500" Name="Play_FX_PlayerLowHealthWarning" />
+				<Event Id="2644641852" Name="Play_FX_PlayerLowShields" />
+				<Event Id="3134275508" Name="Play_FX_PlayerSheildBroken" />
+				<Event Id="397886318" Name="Play_FX_PlayerThrust" />
+				<Event Id="1232917055" Name="Play_FX_SheildFull" />
+				<Event Id="857557751" Name="Play_FX_ShieldRecharge" />
+				<Event Id="928755845" Name="Play_FX_Turotial_SpeedUpSlowDown" />
+				<Event Id="3828245667" Name="Play_FX_Tutorial_BlueModeRegenerate" />
+				<Event Id="1746566915" Name="Play_FX_Tutorial_CruiserEntrance" />
+				<Event Id="2445691824" Name="Play_FX_Tutorial_DodgeRoll" />
+				<Event Id="1050967899" Name="Play_FX_Tutorial_DodgeRollCooldown" />
+				<Event Id="1190081992" Name="Play_FX_Tutorial_FireWeapon" />
+				<Event Id="714473524" Name="Play_FX_Tutorial_GreatJob" />
+				<Event Id="4238397366" Name="Play_FX_Tutorial_HydraEntrance" />
+				<Event Id="3577241429" Name="Play_FX_Tutorial_HydraMegaLaserEntrance" />
+				<Event Id="3626671961" Name="Play_FX_Tutorial_HydraShieldEntrance" />
+				<Event Id="2790838356" Name="Play_FX_Tutorial_HydraTurretEntrance" />
+				<Event Id="1436058031" Name="Play_FX_Tutorial_IncomingWave" />
+				<Event Id="1979877064" Name="Play_FX_Tutorial_LongVictory" />
+				<Event Id="1868196172" Name="Play_FX_Tutorial_LookAnEnemy" />
+				<Event Id="735571985" Name="Play_FX_Tutorial_MarauderEntrance" />
+				<Event Id="2549457089" Name="Play_FX_Tutorial_ModeWeapon" />
+				<Event Id="4141373988" Name="Play_FX_Tutorial_MoveMouse" />
+				<Event Id="4285127818" Name="Play_FX_Tutorial_PlayerCriticalHealth" />
+				<Event Id="1120258303" Name="Play_FX_Tutorial_PlayerDeath" />
+				<Event Id="3237505011" Name="Play_FX_Tutorial_PlayerShieldsDown" />
+				<Event Id="1903435388" Name="Play_FX_Tutorial_ProceedToWaypoint" />
+				<Event Id="2328716626" Name="Play_FX_Tutorial_QuickTurn_01" />
+				<Event Id="1819810030" Name="Play_FX_Tutorial_QuickTurnReposition" />
+				<Event Id="541675017" Name="Play_FX_Tutorial_QuickVictory" />
+				<Event Id="3114977439" Name="Play_FX_Tutorial_SeekerEntrance" />
+				<Event Id="3220819180" Name="Play_FX_Tutorial_SwitchModes" />
+				<Event Id="1442694034" Name="Play_FX_Tutorial_TimerRanOut" />
+				<Event Id="1635845498" Name="Play_FX_Tutorial_WaveComplete" />
+				<Event Id="3664258282" Name="Play_MX_Credits" />
+				<Event Id="1458858747" Name="Play_MX_LevelMusic" />
+				<Event Id="3867952842" Name="Play_MX_MenuMusic" />
+				<Event Id="1909804932" Name="Play_MX_Pause_Menu" />
+				<Event Id="3679762312" Name="Resume_All" />
+				<Event Id="452547817" Name="Stop_All" />
+				<Event Id="3793872452" Name="Stop_FX_HydraLaserCharge" />
+				<Event Id="454655532" Name="Stop_FX_HydraLaserFire" />
+				<Event Id="4156309553" Name="Stop_FX_HyperSpace" />
+				<Event Id="4188480040" Name="Stop_FX_MissleTravel" />
+				<Event Id="4259580516" Name="Stop_FX_PlayerIdle" />
+				<Event Id="1126710119" Name="Stop_FX_Turotial_SpeedUpSlowDown" />
+				<Event Id="4118827973" Name="Stop_FX_Tutorial_BlueModeRegenerate" />
+				<Event Id="3633989241" Name="Stop_FX_Tutorial_CruiserEntrance" />
+				<Event Id="944289558" Name="Stop_FX_Tutorial_DodgeRoll" />
+				<Event Id="1150668945" Name="Stop_FX_Tutorial_DodgeRollCooldown" />
+				<Event Id="1722005486" Name="Stop_FX_Tutorial_FireWeapon" />
+				<Event Id="3171395306" Name="Stop_FX_Tutorial_GreatJob" />
+				<Event Id="468773688" Name="Stop_FX_Tutorial_HydraEntrance" />
+				<Event Id="594867159" Name="Stop_FX_Tutorial_HydraMegaLaserEntrance" />
+				<Event Id="2640520695" Name="Stop_FX_Tutorial_HydraShieldEntrance" />
+				<Event Id="3269239902" Name="Stop_FX_Tutorial_HydraTurretEntrance" />
+				<Event Id="4277701346" Name="Stop_FX_Tutorial_LongVictory" />
+				<Event Id="2480133478" Name="Stop_FX_Tutorial_LookAnEnemy" />
+				<Event Id="2045269771" Name="Stop_FX_Tutorial_MarauderEntrance" />
+				<Event Id="55444003" Name="Stop_FX_Tutorial_ModeWeapon" />
+				<Event Id="192447698" Name="Stop_FX_Tutorial_MoveMouse" />
+				<Event Id="4124327060" Name="Stop_FX_Tutorial_PlayerCriticalHealth" />
+				<Event Id="3933963633" Name="Stop_FX_Tutorial_PlayerDeath" />
+				<Event Id="4065766833" Name="Stop_FX_Tutorial_PlayerShieldsDown" />
+				<Event Id="1812550578" Name="Stop_FX_Tutorial_QuickTurn" />
+				<Event Id="1588131832" Name="Stop_FX_Tutorial_QuickTurnReposition" />
+				<Event Id="3560212211" Name="Stop_FX_Tutorial_QuickVictory" />
+				<Event Id="3383505973" Name="Stop_FX_Tutorial_SeekerEntrance" />
+				<Event Id="3901137622" Name="Stop_FX_Tutorial_SwitchModes" />
+				<Event Id="1644821104" Name="Stop_FX_Tutorial_TimerRanOut" />
+				<Event Id="4079527392" Name="Stop_MX_Credits" />
+				<Event Id="1569462221" Name="Stop_MX_LevelMusic" />
+				<Event Id="137242616" Name="Stop_MX_MenuMusic" />
+				<Event Id="639949358" Name="Stop_MX_Pause_Menu" />
+			</IncludedEvents>
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles>
+				<File Id="405056892" Language="SFX">
+					<ShortName>AcesGalaxy.wav</ShortName>
+					<Path>sfx\acesgalaxy_ab9e423e.wem</Path>
+				</File>
+				<File Id="628969700" Language="SFX">
+					<ShortName>BlockActivate.wav</ShortName>
+					<Path>sfx\blockactivate_4f27f02b.wem</Path>
+				</File>
+				<File Id="974917849" Language="SFX">
+					<ShortName>BlockDe-Activate.wav</ShortName>
+					<Path>sfx\blockde-activate_4f27f02b.wem</Path>
+				</File>
+				<File Id="374364632" Language="SFX">
+					<ShortName>Checkpoint.wav</ShortName>
+					<Path>sfx\checkpoint_4f27f02b.wem</Path>
+				</File>
+				<File Id="397227959" Language="SFX">
+					<ShortName>DX_GoodJob_FUTZ.wav</ShortName>
+					<Path>sfx\dx_goodjob_futz_4f27f02b.wem</Path>
+				</File>
+				<File Id="335901647" Language="SFX">
+					<ShortName>DX_OnYourSix_01_FUTZ.wav</ShortName>
+					<Path>sfx\dx_onyoursix_01_futz_4f27f02b.wem</Path>
+				</File>
+				<File Id="55337371" Language="SFX">
+					<ShortName>DX_OnYourSix_02_FUTZ.wav</ShortName>
+					<Path>sfx\dx_onyoursix_02_futz_4f27f02b.wem</Path>
+				</File>
+				<File Id="301744748" Language="SFX">
+					<ShortName>DX_OnYourSix_03_FUTZ.wav</ShortName>
+					<Path>sfx\dx_onyoursix_03_futz_4f27f02b.wem</Path>
+				</File>
+				<File Id="637478277" Language="SFX">
+					<ShortName>DX_OutOfBounds_01_FUTZ.wav</ShortName>
+					<Path>sfx\dx_outofbounds_01_futz_4f27f02b.wem</Path>
+				</File>
+				<File Id="807594184" Language="SFX">
+					<ShortName>DX_OutOfBounds_02_FUTZ.wav</ShortName>
+					<Path>sfx\dx_outofbounds_02_futz_4f27f02b.wem</Path>
+				</File>
+				<File Id="285652419" Language="SFX">
+					<ShortName>FX_Accept.wav</ShortName>
+					<Path>sfx\fx_accept_4f27f02b.wem</Path>
+				</File>
+				<File Id="404541108" Language="SFX">
+					<ShortName>fx_BossEntrance.wav</ShortName>
+					<Path>sfx\fx_bossentrance_4f27f02b.wem</Path>
+				</File>
+				<File Id="723172193" Language="SFX">
+					<ShortName>FX_EnemyExplosion.wav</ShortName>
+					<Path>sfx\fx_enemyexplosion_4f27f02b.wem</Path>
+				</File>
+				<File Id="864520316" Language="SFX">
+					<ShortName>FX_EnemyMissleLaunch.wav</ShortName>
+					<Path>sfx\fx_enemymisslelaunch_4f27f02b.wem</Path>
+				</File>
+				<File Id="208329608" Language="SFX">
+					<ShortName>FX_Hydra_Laser_End.wav</ShortName>
+					<Path>sfx\fx_hydra_laser_end_4f27f02b.wem</Path>
+				</File>
+				<File Id="54069127" Language="SFX">
+					<ShortName>FX_Hydra_Laser_Loop.wav</ShortName>
+					<Path>sfx\fx_hydra_laser_loop_4f27f02a.wem</Path>
+				</File>
+				<File Id="539686762" Language="SFX">
+					<ShortName>FX_HydraLaserCharge.wav</ShortName>
+					<Path>sfx\fx_hydralasercharge_4f27f02b.wem</Path>
+				</File>
+				<File Id="601624072" Language="SFX">
+					<ShortName>FX_HydraLaserFire.wav</ShortName>
+					<Path>sfx\fx_hydralaserfire_4f27f02b.wem</Path>
+				</File>
+				<File Id="412699210" Language="SFX">
+					<ShortName>FX_HydraLaserPeashooter.wav</ShortName>
+					<Path>sfx\fx_hydralaserpeashooter_4f27f02b.wem</Path>
+				</File>
+				<File Id="989717038" Language="SFX">
+					<ShortName>FX_HydraPlanetDestroyed.wav</ShortName>
+					<Path>sfx\fx_hydraplanetdestroyed_4f27f02b.wem</Path>
+				</File>
+				<File Id="595772224" Language="SFX">
+					<ShortName>FX_HydraSheildGenDown.wav</ShortName>
+					<Path>sfx\fx_hydrasheildgendown_4f27f02b.wem</Path>
+				</File>
+				<File Id="768260255" Language="SFX">
+					<ShortName>fx_HydraTimerOut.wav</ShortName>
+					<Path>sfx\fx_hydratimerout_4f27f02b.wem</Path>
+				</File>
+				<File Id="73153182" Language="SFX">
+					<ShortName>FX_HyperSpace.wav</ShortName>
+					<Path>sfx\fx_hyperspace_4f27f02b.wem</Path>
+				</File>
+				<File Id="78154434" Language="SFX">
+					<ShortName>FX_IceBlockShatter.wav</ShortName>
+					<Path>sfx\fx_iceblockshatter_4f27f02b.wem</Path>
+				</File>
+				<File Id="202077481" Language="SFX">
+					<ShortName>FX_IceGolem_Death.wav</ShortName>
+					<Path>sfx\fx_icegolem_death_4f27f02b.wem</Path>
+				</File>
+				<File Id="173010417" Language="SFX">
+					<ShortName>FX_LockOnWarning.wav</ShortName>
+					<Path>sfx\fx_lockonwarning_4f27f02b.wem</Path>
+				</File>
+				<File Id="699583346" Language="SFX">
+					<ShortName>FX_MissleExplosion.wav</ShortName>
+					<Path>sfx\fx_missleexplosion_4f27f02b.wem</Path>
+				</File>
+				<File Id="62533894" Language="SFX">
+					<ShortName>FX_MissleLockOn.wav</ShortName>
+					<Path>sfx\fx_misslelockon_4f27f02a.wem</Path>
+				</File>
+				<File Id="956460461" Language="SFX">
+					<ShortName>FX_MissleReload.wav</ShortName>
+					<Path>sfx\fx_misslereload_4f27f02b.wem</Path>
+				</File>
+				<File Id="165633897" Language="SFX">
+					<ShortName>FX_MissleTravel.wav</ShortName>
+					<Path>sfx\fx_missletravel_4f27f02a.wem</Path>
+				</File>
+				<File Id="27072467" Language="SFX">
+					<ShortName>FX_ModeChanget.wav</ShortName>
+					<Path>sfx\fx_modechanget_4f27f02b.wem</Path>
+				</File>
+				<File Id="1011452153" Language="SFX">
+					<ShortName>FX_PlayerDeath.wav</ShortName>
+					<Path>sfx\fx_playerdeath_4f27f02b.wem</Path>
+				</File>
+				<File Id="183546830" Language="SFX">
+					<ShortName>FX_PlayerDodge.wav</ShortName>
+					<Path>sfx\fx_playerdodge_4f27f02b.wem</Path>
+				</File>
+				<File Id="659991029" Language="SFX">
+					<ShortName>FX_PlayerFullHealth.wav</ShortName>
+					<Path>sfx\fx_playerfullhealth_4f27f02a.wem</Path>
+				</File>
+				<File Id="196681971" Language="SFX">
+					<ShortName>FX_PlayerFullHealth.wav</ShortName>
+					<Path>sfx\fx_playerfullhealth_4f27f02b.wem</Path>
+				</File>
+				<File Id="537895276" Language="SFX">
+					<ShortName>FX_PlayerIdle.wav</ShortName>
+					<Path>sfx\fx_playeridle_4f27f02a.wem</Path>
+				</File>
+				<File Id="846157923" Language="SFX">
+					<ShortName>FX_PlayerLaserFire.wav</ShortName>
+					<Path>sfx\fx_playerlaserfire_4f27f02b.wem</Path>
+				</File>
+				<File Id="331463767" Language="SFX">
+					<ShortName>FX_PlayerLowHealthWarning.wav</ShortName>
+					<Path>sfx\fx_playerlowhealthwarning_4f27f02b.wem</Path>
+				</File>
+				<File Id="561442072" Language="SFX">
+					<ShortName>FX_PlayerLowShields.wav</ShortName>
+					<Path>sfx\fx_playerlowshields_4f27f02b.wem</Path>
+				</File>
+				<File Id="67966546" Language="SFX">
+					<ShortName>FX_PlayerSheildBroken.wav</ShortName>
+					<Path>sfx\fx_playersheildbroken_4f27f02b.wem</Path>
+				</File>
+				<File Id="439817513" Language="SFX">
+					<ShortName>FX_PlayerThrust.wav</ShortName>
+					<Path>sfx\fx_playerthrust_4f27f02b.wem</Path>
+				</File>
+				<File Id="889073962" Language="SFX">
+					<ShortName>FX_ShieldHit.wav</ShortName>
+					<Path>sfx\fx_shieldhit_4f27f02b.wem</Path>
+				</File>
+				<File Id="93899481" Language="SFX">
+					<ShortName>FX_ShieldRecharge.wav</ShortName>
+					<Path>sfx\fx_shieldrecharge_4f27f02b.wem</Path>
+				</File>
+				<File Id="373474985" Language="SFX">
+					<ShortName>FX_Tutorial_AmbushDetected_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_ambushdetected_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="544490925" Language="SFX">
+					<ShortName>FX_Tutorial_AreaCleared_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_areacleared_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="828894477" Language="SFX">
+					<ShortName>FX_Tutorial_BeingAmbushed_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_beingambushed_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="40339041" Language="SFX">
+					<ShortName>FX_Tutorial_BlueModeRegenerate_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_bluemoderegenerate_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="562926625" Language="SFX">
+					<ShortName>FX_Tutorial_CruiserEntrance_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_cruiserentrance_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="954236883" Language="SFX">
+					<ShortName>FX_Tutorial_DodgeRoll_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_dodgeroll_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="388799492" Language="SFX">
+					<ShortName>FX_Tutorial_DodgeRollCooldown_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_dodgerollcooldown_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="1067957327" Language="SFX">
+					<ShortName>FX_Tutorial_FireWeapon_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_fireweapon_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="402010040" Language="SFX">
+					<ShortName>FX_Tutorial_GreatJob_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_greatjob_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="722163374" Language="SFX">
+					<ShortName>FX_Tutorial_HydraEntrance_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_hydraentrance_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="424830751" Language="SFX">
+					<ShortName>FX_Tutorial_HydraMegaLaserEntrance_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_hydramegalaserentrance_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="77955532" Language="SFX">
+					<ShortName>FX_Tutorial_HydraShieldEntrance_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_hydrashieldentrance_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="985384082" Language="SFX">
+					<ShortName>FX_Tutorial_HydraTurretEntrance_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_hydraturretentrance_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="384962621" Language="SFX">
+					<ShortName>FX_Tutorial_LongVictory_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_longvictory_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="643097592" Language="SFX">
+					<ShortName>FX_Tutorial_LookAnEnemy_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_lookanenemy_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="472304911" Language="SFX">
+					<ShortName>FX_Tutorial_MarauderEntrance_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_marauderentrance_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="615553044" Language="SFX">
+					<ShortName>FX_Tutorial_ModeWeapon_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_modeweapon_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="991692097" Language="SFX">
+					<ShortName>FX_Tutorial_MoveMouse_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_movemouse_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="847342015" Language="SFX">
+					<ShortName>FX_Tutorial_PlayerCriticalHealth_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_playercriticalhealth_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="507074644" Language="SFX">
+					<ShortName>FX_Tutorial_PlayerDeath.wav</ShortName>
+					<Path>sfx\fx_tutorial_playerdeath_ab9e423f.wem</Path>
+				</File>
+				<File Id="361976348" Language="SFX">
+					<ShortName>FX_Tutorial_PlayerShieldsDown_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_playershieldsdown_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="28339128" Language="SFX">
+					<ShortName>FX_Tutorial_ProceedToWaypoint_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_proceedtowaypoint_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="1052783769" Language="SFX">
+					<ShortName>FX_Tutorial_QuickTurn_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_quickturn_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="886450313" Language="SFX">
+					<ShortName>FX_Tutorial_QuickTurnRepsoition_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_quickturnrepsoition_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="1011096831" Language="SFX">
+					<ShortName>FX_Tutorial_QuickVictory_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_quickvictory_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="158438563" Language="SFX">
+					<ShortName>FX_Tutorial_SeekerEntrance_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_seekerentrance_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="146646260" Language="SFX">
+					<ShortName>FX_Tutorial_SpeedUpSlowDown_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_speedupslowdown_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="170333612" Language="SFX">
+					<ShortName>FX_Tutorial_SwitchModes_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_switchmodes_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="855290747" Language="SFX">
+					<ShortName>FX_Tutorial_TimerRanOut_FUTZ.wav</ShortName>
+					<Path>sfx\fx_tutorial_timerranout_futz_ab9e423f.wem</Path>
+				</File>
+				<File Id="334112282" Language="SFX">
+					<ShortName>Hydra_Laser_Fire.wav</ShortName>
+					<Path>sfx\hydra_laser_fire_4f27f02b.wem</Path>
+				</File>
+				<File Id="156491084" Language="SFX">
+					<ShortName>Music_Gameplay_Battlefield.wav</ShortName>
+					<Path>sfx\music_gameplay_battlefield_ab9e423e.wem</Path>
+				</File>
+				<File Id="665712007" Language="SFX">
+					<ShortName>Music_Menu.wav</ShortName>
+					<Path>sfx\music_menu_ab9e423e.wem</Path>
+				</File>
+				<File Id="936097046" Language="SFX">
+					<ShortName>MX_Credits.wav</ShortName>
+					<Path>sfx\mx_credits_ab9e423e.wem</Path>
+				</File>
+				<File Id="269684221" Language="SFX">
+					<ShortName>PlayerLaserLayer.wav</ShortName>
+					<Path>sfx\playerlaserlayer_4f27f02b.wem</Path>
+				</File>
+				<File Id="184142937" Language="SFX">
+					<ShortName>ScoreTicker.wav</ShortName>
+					<Path>sfx\scoreticker_4f27f02a.wem</Path>
+				</File>
+				<File Id="71031271" Language="SFX">
+					<ShortName>ScoreTicker.wav</ShortName>
+					<Path>sfx\scoreticker_4f27f02b.wem</Path>
+				</File>
+				<File Id="762501575" Language="SFX">
+					<ShortName>SFX_Knight_Block_Clang_02.wav</ShortName>
+					<Path>sfx\sfx_knight_block_clang_02_4f27f02b.wem</Path>
+				</File>
+				<File Id="962315" Language="SFX">
+					<ShortName>SFX_Knight_Block_Clang_03.wav</ShortName>
+					<Path>sfx\sfx_knight_block_clang_03_4f27f02b.wem</Path>
+				</File>
+				<File Id="771150702" Language="SFX">
+					<ShortName>SFX_Knight_Block_Clang.wav</ShortName>
+					<Path>sfx\sfx_knight_block_clang_4f27f02b.wem</Path>
+				</File>
+				<File Id="182910788" Language="SFX">
+					<ShortName>SFX_Knight_Impact_Clang_01.wav</ShortName>
+					<Path>sfx\sfx_knight_impact_clang_01_4f27f02b.wem</Path>
+				</File>
+				<File Id="602659865" Language="SFX">
+					<ShortName>SFX_Knight_Impact_Clang_02.wav</ShortName>
+					<Path>sfx\sfx_knight_impact_clang_02_4f27f02b.wem</Path>
+				</File>
+				<File Id="66887525" Language="SFX">
+					<ShortName>SFX_Knight_Impact_Clang_03.wav</ShortName>
+					<Path>sfx\sfx_knight_impact_clang_03_4f27f02b.wem</Path>
+				</File>
+				<File Id="422850069" Language="SFX">
+					<ShortName>SFX_Knight_Impact_Rattle_01.wav</ShortName>
+					<Path>sfx\sfx_knight_impact_rattle_01_4f27f02b.wem</Path>
+				</File>
+				<File Id="404413951" Language="SFX">
+					<ShortName>SFX_Knight_Impact_Rattle_02.wav</ShortName>
+					<Path>sfx\sfx_knight_impact_rattle_02_4f27f02b.wem</Path>
+				</File>
+				<File Id="34917551" Language="SFX">
+					<ShortName>SFX_Knight_Impact_Rattle_03.wav</ShortName>
+					<Path>sfx\sfx_knight_impact_rattle_03_4f27f02b.wem</Path>
+				</File>
+				<File Id="830768816" Language="SFX">
+					<ShortName>SFX_Knight_Impact_Rattle_04.wav</ShortName>
+					<Path>sfx\sfx_knight_impact_rattle_04_4f27f02b.wem</Path>
+				</File>
+				<File Id="164744" Language="SFX">
+					<ShortName>SFX_Knight_Sheild_Bash.wav</ShortName>
+					<Path>sfx\sfx_knight_sheild_bash_4f27f02b.wem</Path>
+				</File>
+			</IncludedFullFiles>
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,210 @@
+Event	ID	Name			Wwise Object Path	Notes
+	55444003	Stop_FX_Tutorial_ModeWeapon			\Default Work Unit\Stop_FX_Tutorial_ModeWeapon	
+	82885510	Play_FX_MissleTravel			\Default Work Unit\Play_FX_MissleTravel	
+	93130902	Play_FX_PlayerDeath			\Default Work Unit\Play_FX_PlayerDeath	
+	123759940	Play_FX_HydraPlanetDestroyed			\Default Work Unit\Play_FX_HydraPlanetDestroyed	
+	137242616	Stop_MX_MenuMusic			\Default Work Unit\Stop_MX_MenuMusic	
+	192447698	Stop_FX_Tutorial_MoveMouse			\Default Work Unit\Stop_FX_Tutorial_MoveMouse	
+	318880729	Play_DX_OnYourSix			\Default Work Unit\Play_DX_OnYourSix	
+	397886318	Play_FX_PlayerThrust			\Default Work Unit\Play_FX_PlayerThrust	
+	415413611	Play_DX_GoodJob			\Default Work Unit\Play_DX_GoodJob	
+	419499318	Play_FX_HydraLaserFire			\Default Work Unit\Play_FX_HydraLaserFire	
+	452547817	Stop_All			\Default Work Unit\Stop_All	
+	454655532	Stop_FX_HydraLaserFire			\Default Work Unit\Stop_FX_HydraLaserFire	
+	468773688	Stop_FX_Tutorial_HydraEntrance			\Default Work Unit\Stop_FX_Tutorial_HydraEntrance	
+	541675017	Play_FX_Tutorial_QuickVictory			\Default Work Unit\Play_FX_Tutorial_QuickVictory	
+	593813302	Play_FX_EnemyLaserFire			\Default Work Unit\Play_FX_EnemyLaserFire	
+	594867159	Stop_FX_Tutorial_HydraMegaLaserEntrance			\Default Work Unit\Stop_FX_Tutorial_HydraMegaLaserEntrance	
+	639949358	Stop_MX_Pause_Menu			\Default Work Unit\Stop_MX_Pause_Menu	
+	714473524	Play_FX_Tutorial_GreatJob			\Default Work Unit\Play_FX_Tutorial_GreatJob	
+	735571985	Play_FX_Tutorial_MarauderEntrance			\Default Work Unit\Play_FX_Tutorial_MarauderEntrance	
+	857557751	Play_FX_ShieldRecharge			\Default Work Unit\Play_FX_ShieldRecharge	
+	928755845	Play_FX_Turotial_SpeedUpSlowDown			\Default Work Unit\Play_FX_Turotial_SpeedUpSlowDown	
+	944289558	Stop_FX_Tutorial_DodgeRoll			\Default Work Unit\Stop_FX_Tutorial_DodgeRoll	
+	1050967899	Play_FX_Tutorial_DodgeRollCooldown			\Default Work Unit\Play_FX_Tutorial_DodgeRollCooldown	
+	1120258303	Play_FX_Tutorial_PlayerDeath			\Default Work Unit\Play_FX_Tutorial_PlayerDeath	
+	1126710119	Stop_FX_Turotial_SpeedUpSlowDown			\Default Work Unit\Stop_FX_Turotial_SpeedUpSlowDown	
+	1150668945	Stop_FX_Tutorial_DodgeRollCooldown			\Default Work Unit\Stop_FX_Tutorial_DodgeRollCooldown	
+	1190081992	Play_FX_Tutorial_FireWeapon			\Default Work Unit\Play_FX_Tutorial_FireWeapon	
+	1196141804	Play_FX_MissleLockOn			\Default Work Unit\Play_FX_MissleLockOn	
+	1232917055	Play_FX_SheildFull			\Default Work Unit\Play_FX_SheildFull	
+	1371451371	Play_FX_MissleExplosion			\Default Work Unit\Play_FX_MissleExplosion	
+	1436058031	Play_FX_Tutorial_IncomingWave			\Default Work Unit\Play_FX_Tutorial_IncomingWave	
+	1442694034	Play_FX_Tutorial_TimerRanOut			\Default Work Unit\Play_FX_Tutorial_TimerRanOut	
+	1458858747	Play_MX_LevelMusic			\Default Work Unit\Play_MX_LevelMusic	
+	1462850981	Play_FX_PlayerDodge			\Default Work Unit\Play_FX_PlayerDodge	
+	1569462221	Stop_MX_LevelMusic			\Default Work Unit\Stop_MX_LevelMusic	
+	1588131832	Stop_FX_Tutorial_QuickTurnReposition			\Default Work Unit\Stop_FX_Tutorial_QuickTurnReposition	
+	1635845498	Play_FX_Tutorial_WaveComplete			\Default Work Unit\Play_FX_Tutorial_WaveComplete	
+	1644821104	Stop_FX_Tutorial_TimerRanOut			\Default Work Unit\Stop_FX_Tutorial_TimerRanOut	
+	1722005486	Stop_FX_Tutorial_FireWeapon			\Default Work Unit\Stop_FX_Tutorial_FireWeapon	
+	1746566915	Play_FX_Tutorial_CruiserEntrance			\Default Work Unit\Play_FX_Tutorial_CruiserEntrance	
+	1812274575	Play_FX_LockOnWarning			\Default Work Unit\Play_FX_LockOnWarning	
+	1812550578	Stop_FX_Tutorial_QuickTurn			\Default Work Unit\Stop_FX_Tutorial_QuickTurn	
+	1819810030	Play_FX_Tutorial_QuickTurnReposition			\Default Work Unit\Play_FX_Tutorial_QuickTurnReposition	
+	1868196172	Play_FX_Tutorial_LookAnEnemy			\Default Work Unit\Play_FX_Tutorial_LookAnEnemy	
+	1903435388	Play_FX_Tutorial_ProceedToWaypoint			\Default Work Unit\Play_FX_Tutorial_ProceedToWaypoint	
+	1909804932	Play_MX_Pause_Menu			\Default Work Unit\Play_MX_Pause_Menu	
+	1935404700	Play_FX_HydraSheildGenDown			\Default Work Unit\Play_FX_HydraSheildGenDown	
+	1979877064	Play_FX_Tutorial_LongVictory			\Default Work Unit\Play_FX_Tutorial_LongVictory	
+	2045269771	Stop_FX_Tutorial_MarauderEntrance			\Default Work Unit\Stop_FX_Tutorial_MarauderEntrance	
+	2200931677	Play_FX_AsteroidExplosion			\Default Work Unit\Play_FX_AsteroidExplosion	
+	2328716626	Play_FX_Tutorial_QuickTurn_01			\Default Work Unit\Play_FX_Tutorial_QuickTurn_01	
+	2445691824	Play_FX_Tutorial_DodgeRoll			\Default Work Unit\Play_FX_Tutorial_DodgeRoll	
+	2480133478	Stop_FX_Tutorial_LookAnEnemy			\Default Work Unit\Stop_FX_Tutorial_LookAnEnemy	
+	2549457089	Play_FX_Tutorial_ModeWeapon			\Default Work Unit\Play_FX_Tutorial_ModeWeapon	
+	2604073440	Play_FX_HydraLaserPeashooter			\Default Work Unit\Play_FX_HydraLaserPeashooter	
+	2640520695	Stop_FX_Tutorial_HydraShieldEntrance			\Default Work Unit\Stop_FX_Tutorial_HydraShieldEntrance	
+	2644641852	Play_FX_PlayerLowShields			\Default Work Unit\Play_FX_PlayerLowShields	
+	2647134149	Play_FX_PlayerLaserFire			\Default Work Unit\Play_FX_PlayerLaserFire	
+	2656618108	Play_FX_HydraTimerOut			\Default Work Unit\Play_FX_HydraTimerOut	
+	2684977403	Play_FX_EnemyThrust			\Default Work Unit\Play_FX_EnemyThrust	
+	2758416225	Play_FX_HydraShieldHit			\Default Work Unit\Play_FX_HydraShieldHit	
+	2760604581	Play_FX_Checkpoint			\Default Work Unit\Play_FX_Checkpoint	
+	2777301798	Play_FX_BossEntrance			\Default Work Unit\Play_FX_BossEntrance	
+	2790838356	Play_FX_Tutorial_HydraTurretEntrance			\Default Work Unit\Play_FX_Tutorial_HydraTurretEntrance	
+	2859429368	Play_FX_LaserHitRock			\Default Work Unit\Play_FX_LaserHitRock	
+	2879173968	Play_FX_LaserHitMetal			\Default Work Unit\Play_FX_LaserHitMetal	
+	3070217239	Play_DX_OutOfBounds			\Default Work Unit\Play_DX_OutOfBounds	
+	3106868597	Play_FX_MenuItemCancel			\Default Work Unit\Play_FX_MenuItemCancel	
+	3114977439	Play_FX_Tutorial_SeekerEntrance			\Default Work Unit\Play_FX_Tutorial_SeekerEntrance	
+	3134275508	Play_FX_PlayerSheildBroken			\Default Work Unit\Play_FX_PlayerSheildBroken	
+	3171395306	Stop_FX_Tutorial_GreatJob			\Default Work Unit\Stop_FX_Tutorial_GreatJob	
+	3201988117	Play_FX_PlayerFullHealth			\Default Work Unit\Play_FX_PlayerFullHealth	
+	3220819180	Play_FX_Tutorial_SwitchModes			\Default Work Unit\Play_FX_Tutorial_SwitchModes	
+	3233870986	Play_FX_HydraLaser			\Default Work Unit\Play_FX_HydraLaser	
+	3237505011	Play_FX_Tutorial_PlayerShieldsDown			\Default Work Unit\Play_FX_Tutorial_PlayerShieldsDown	
+	3258827500	Play_FX_PlayerLowHealthWarning			\Default Work Unit\Play_FX_PlayerLowHealthWarning	
+	3269239902	Stop_FX_Tutorial_HydraTurretEntrance			\Default Work Unit\Stop_FX_Tutorial_HydraTurretEntrance	
+	3383505973	Stop_FX_Tutorial_SeekerEntrance			\Default Work Unit\Stop_FX_Tutorial_SeekerEntrance	
+	3452370872	Play_FX_EnemyMissleFire			\Default Work Unit\Play_FX_EnemyMissleFire	
+	3537667104	Play_FX_CountDown			\Default Work Unit\Play_FX_CountDown	
+	3544485011	Play_FX_HyperSpace			\Default Work Unit\Play_FX_HyperSpace	
+	3560212211	Stop_FX_Tutorial_QuickVictory			\Default Work Unit\Stop_FX_Tutorial_QuickVictory	
+	3577241429	Play_FX_Tutorial_HydraMegaLaserEntrance			\Default Work Unit\Play_FX_Tutorial_HydraMegaLaserEntrance	
+	3592200831	Play_FX_MenuItemPlayGame			\Default Work Unit\Play_FX_MenuItemPlayGame	
+	3611713066	Play_FX_HydraLaserCharge			\Default Work Unit\Play_FX_HydraLaserCharge	
+	3626671961	Play_FX_Tutorial_HydraShieldEntrance			\Default Work Unit\Play_FX_Tutorial_HydraShieldEntrance	
+	3633989241	Stop_FX_Tutorial_CruiserEntrance			\Default Work Unit\Stop_FX_Tutorial_CruiserEntrance	
+	3657685942	Play_FX_EnemyExplosion			\Default Work Unit\Play_FX_EnemyExplosion	
+	3664258282	Play_MX_Credits			\Default Work Unit\Play_MX_Credits	
+	3679762312	Resume_All			\Default Work Unit\Resume_All	
+	3717757135	Play_FX_MenuItemSwitch			\Default Work Unit\Play_FX_MenuItemSwitch	
+	3788741585	Play_FX_MenuItemConfirm			\Default Work Unit\Play_FX_MenuItemConfirm	
+	3793872452	Stop_FX_HydraLaserCharge			\Default Work Unit\Stop_FX_HydraLaserCharge	
+	3828245667	Play_FX_Tutorial_BlueModeRegenerate			\Default Work Unit\Play_FX_Tutorial_BlueModeRegenerate	
+	3864097025	Pause_All			\Default Work Unit\Pause_All	
+	3867952842	Play_MX_MenuMusic			\Default Work Unit\Play_MX_MenuMusic	
+	3901137622	Stop_FX_Tutorial_SwitchModes			\Default Work Unit\Stop_FX_Tutorial_SwitchModes	
+	3933963633	Stop_FX_Tutorial_PlayerDeath			\Default Work Unit\Stop_FX_Tutorial_PlayerDeath	
+	4006367544	Play_FX_PlayerHullHit			\Default Work Unit\Play_FX_PlayerHullHit	
+	4065766833	Stop_FX_Tutorial_PlayerShieldsDown			\Default Work Unit\Stop_FX_Tutorial_PlayerShieldsDown	
+	4079527392	Stop_MX_Credits			\Default Work Unit\Stop_MX_Credits	
+	4087504162	Play_FX_ModeChange			\Default Work Unit\Play_FX_ModeChange	
+	4118827973	Stop_FX_Tutorial_BlueModeRegenerate			\Default Work Unit\Stop_FX_Tutorial_BlueModeRegenerate	
+	4124327060	Stop_FX_Tutorial_PlayerCriticalHealth			\Default Work Unit\Stop_FX_Tutorial_PlayerCriticalHealth	
+	4141373988	Play_FX_Tutorial_MoveMouse			\Default Work Unit\Play_FX_Tutorial_MoveMouse	
+	4156309553	Stop_FX_HyperSpace			\Default Work Unit\Stop_FX_HyperSpace	
+	4188480040	Stop_FX_MissleTravel			\Default Work Unit\Stop_FX_MissleTravel	
+	4203598113	Play_FX_MissleReload			\Default Work Unit\Play_FX_MissleReload	
+	4238397366	Play_FX_Tutorial_HydraEntrance			\Default Work Unit\Play_FX_Tutorial_HydraEntrance	
+	4259580516	Stop_FX_PlayerIdle			\Default Work Unit\Stop_FX_PlayerIdle	
+	4277701346	Stop_FX_Tutorial_LongVictory			\Default Work Unit\Stop_FX_Tutorial_LongVictory	
+	4285127818	Play_FX_Tutorial_PlayerCriticalHealth			\Default Work Unit\Play_FX_Tutorial_PlayerCriticalHealth	
+	4293324262	Play_FX_PlayerIdle			\Default Work Unit\Play_FX_PlayerIdle	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	376383392	ShipSpeed			\Default Work Unit\ShipSpeed	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	164744	SFX_Knight_Sheild_Bash	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\sfx_knight_sheild_bash_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Impacts\FX_LaserHitMetal\SFX_Knight_Sheild_Bash		4314
+	962315	SFX_Knight_Block_Clang_03	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\sfx_knight_block_clang_03_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Impacts\FX_PlayerHullHit\FX_DullClang\SFX_Knight_Block_Clang_03		5616
+	27072467	FX_ModeChange	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_modechanget_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX_ModeChange		6827
+	28339128	FX_Tutorial_ProceedToWaypoint_FUTZ	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_proceedtowaypoint_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_ProceedToWaypoint_FUTZ		206448
+	34917551	SFX_Knight_Impact_Rattle_03	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\sfx_knight_impact_rattle_03_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Impacts\FX_LaserHitMetal\FX_Rattle\SFX_Knight_Impact_Rattle_03		6073
+	40339041	FX_Tutorial_BlueModeRegenerate	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_bluemoderegenerate_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_BlueModeRegenerate		403602
+	54069127	FX_Hydra_Laser_Loop	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_hydra_laser_loop_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hydra\FX_Hydra_Laser_Loop		35018
+	55337371	DX_OnYourSix_02	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\dx_onyoursix_02_futz_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\HUD\DX_OnYourSix\DX_OnYourSix_02		17416
+	62533894	FX_MissleLockOn	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_misslelockon_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\Missle\FX_MissleLockOn		2011
+	66887525	SFX_Knight_Impact_Clang_03	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\sfx_knight_impact_clang_03_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Impacts\FX_PlayerHullHit\FX_Clang\SFX_Knight_Impact_Clang_03		3721
+	67966546	FX_PlayerSheildBroken	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_playersheildbroken_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\FX_PlayerSheildBroken		11890
+	71031271	FX_MenuItemSwitch	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\scoreticker_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu\FX_MenuItemSwitch		1000
+	73153182	FX_HyperSpace	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_hyperspace_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX_HyperSpace		18635
+	77955532	FX_Tutorial_HydraShieldEntrance	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_hydrashieldentrance_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_HydraShieldEntrance		857366
+	78154434	FX_LaserHitRock	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_iceblockshatter_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Impacts\FX_LaserHitRock		8864
+	93899481	FX_ShieldRecharge	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_shieldrecharge_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX_ShieldRecharge		7306
+	146646260	FX_Turotial_SpeedUpSlowDown	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_speedupslowdown_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Turotial_SpeedUpSlowDown		338824
+	156491084	Music_Gameplay_Battlefield	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\music_gameplay_battlefield_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\MX_LevelMusic\Music_Gameplay_Battlefield\Music_Gameplay_Battlefield		11290196
+	158438563	FX_Tutorial_SeekerEntrance	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_seekerentrance_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_SeekerEntrance		798356
+	165633897	FX_MissleTravel	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_missletravel_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\Missle\FX_MissleTravel		9445
+	170333612	FX_Tutorial_SwitchModes	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_switchmodes_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_SwitchModes		337902
+	173010417	FX_LockOnWarning	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_lockonwarning_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX_LockOnWarning		4261
+	182910788	SFX_Knight_Impact_Clang_01	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\sfx_knight_impact_clang_01_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Impacts\FX_PlayerHullHit\FX_Clang\SFX_Knight_Impact_Clang_01		3269
+	183546830	FX_PlayerDodge	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_playerdodge_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\FX_PlayerDodge		10075
+	184142937	FX_CountDown_02	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\scoreticker_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\HUD\FX_CountDown\FX_CountDown_02		1000
+	196681971	FX_PlayerFullHealth	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_playerfullhealth_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\FX_PlayerFullHealth		4582
+	202077481	FX_AsteroidExplosion	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_icegolem_death_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX_AsteroidExplosion		24946
+	208329608	FX_Hydra_Laser_End	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_hydra_laser_end_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hydra\FX_Hydra_Laser_End		7111
+	269684221	PlayerLaserLayer	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\playerlaserlayer_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\PlayerLaserLayer		3055
+	285652419	FX_MenuItemPlayGame	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_accept_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu\FX_MenuItemPlayGame		11249
+	301744748	DX_OnYourSix_03	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\dx_onyoursix_03_futz_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\HUD\DX_OnYourSix\DX_OnYourSix_03		15491
+	331463767	FX_PlayerLowHealthWarning	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_playerlowhealthwarning_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\FX_PlayerLowHealthWarning		9132
+	334112282	Hydra_Laser_Fire	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\hydra_laser_fire_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hydra\Hydra_Laser_Fire		13061
+	335901647	DX_OnYourSix_01	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\dx_onyoursix_01_futz_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\HUD\DX_OnYourSix\DX_OnYourSix_01		18109
+	361976348	FX_Tutorial_PlayerShieldsDown	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_playershieldsdown_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_PlayerShieldsDown		634102
+	373474985	FX_Tutorial_AmbushDetected_FUTZ	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_ambushdetected_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_IncomingWave\FX_Tutorial_AmbushDetected_FUTZ		200474
+	374364632	FX_Checkpoint	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\checkpoint_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\HUD\FX_Checkpoint		15384
+	384962621	FX_Tutorial_LongVictory	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_longvictory_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_LongVictory		609446
+	388799492	FX_Tutorial_DodgeRollCooldown	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_dodgerollcooldown_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_DodgeRollCooldown		307606
+	397227959	DX_GoodJob	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\dx_goodjob_futz_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\HUD\DX_GoodJob		10979
+	402010040	FX_Tutorial_GreatJob	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_greatjob_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_GreatJob		193936
+	404413951	SFX_Knight_Impact_Rattle_02	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\sfx_knight_impact_rattle_02_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Impacts\FX_LaserHitMetal\FX_Rattle\SFX_Knight_Impact_Rattle_02		3781
+	404541108	FX_BossEntrance	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_bossentrance_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hydra\FX_BossEntrance		16595
+	405056892	MX_Pause_Menu	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\acesgalaxy_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\MX_Pause_Menu\MX_Pause_Menu\MX_Pause_Menu		29638720
+	412699210	FX_HydraLaserPeashooter	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_hydralaserpeashooter_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hydra\FX_HydraLaserPeashooter		4539
+	422850069	SFX_Knight_Impact_Rattle_01	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\sfx_knight_impact_rattle_01_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Impacts\FX_LaserHitMetal\FX_Rattle\SFX_Knight_Impact_Rattle_01		4607
+	424830751	FX_Tutorial_HydraMegaLaserEntrance	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_hydramegalaserentrance_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_HydraMegaLaserEntrance		1035066
+	439817513	FX_EnemyThrust	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_playerthrust_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy\FX_EnemyThrust		11938
+	472304911	FX_Tutorial_MarauderEntrance	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_marauderentrance_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_MarauderEntrance		998698
+	507074644	FX_Tutorial_PlayerDeath	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_playerdeath_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_PlayerDeath		187456
+	537895276	FX_PlayerIdle	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_playeridle_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\FX_PlayerIdle		13957
+	539686762	FX_HydraLaserCharge	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_hydralasercharge_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hydra\FX_HydraLaserCharge		20418
+	544490925	FX_Tutorial_WaveComplete	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_areacleared_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_WaveComplete		173922
+	561442072	FX_PlayerLowShields	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_playerlowshields_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\FX_PlayerLowShields		5288
+	562926625	FX_Tutorial_CruiserEntrance	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_cruiserentrance_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_CruiserEntrance		562458
+	595772224	FX_HydraSheildGenDown	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_hydrasheildgendown_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hydra\FX_HydraSheildGenDown		10467
+	601624072	FX_HydraLaserFire	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_hydralaserfire_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hydra\FX_HydraLaserFire		10415
+	602659865	SFX_Knight_Impact_Clang_02	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\sfx_knight_impact_clang_02_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Impacts\FX_LaserHitMetal\FX_Clang\SFX_Knight_Impact_Clang_02		5285
+	615553044	FX_Tutorial_ModeWeapon	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_modeweapon_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_ModeWeapon		434466
+	628969700	FX_MenuItemConfirm	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\blockactivate_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu\FX_MenuItemConfirm		13901
+	637478277	DX_OutOfBounds_01	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\dx_outofbounds_01_futz_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\HUD\DX_OutOfBounds\DX_OutOfBounds_01		17243
+	643097592	FX_Tutorial_LookAnEnemy	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_lookanenemy_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_LookAnEnemy		327740
+	659991029	FX_SheildFull	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_playerfullhealth_4f27f02a.wem		\Actor-Mixer Hierarchy\Default Work Unit\FX_SheildFull		4582
+	665712007	Music_Menu	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\music_menu_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\MX_MenuMusic\Music_Menu\Music_Menu		15242052
+	699583346	FX_MissleExplosion	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_missleexplosion_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Missle\FX_MissleExplosion		15219
+	722163374	FX_Tutorial_HydraEntrance	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_hydraentrance_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_HydraEntrance		673308
+	723172193	FX_EnemyExplosion	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_enemyexplosion_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy\FX_EnemyExplosion		18354
+	762501575	SFX_Knight_Block_Clang_02	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\sfx_knight_block_clang_02_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Impacts\FX_LaserHitMetal\FX_DullClang\SFX_Knight_Block_Clang_02		4587
+	768260255	FX_HydraTimerOut	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_hydratimerout_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hydra\FX_HydraTimerOut		9468
+	771150702	SFX_Knight_Block_Clang	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\sfx_knight_block_clang_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Impacts\FX_PlayerHullHit\FX_DullClang\SFX_Knight_Block_Clang		6846
+	807594184	DX_OutOfBounds_02	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\dx_outofbounds_02_futz_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\HUD\DX_OutOfBounds\DX_OutOfBounds_02		22626
+	828894477	FX_Tutorial_BeingAmbushed_FUTZ	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_beingambushed_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_IncomingWave\FX_Tutorial_BeingAmbushed_FUTZ		206662
+	830768816	SFX_Knight_Impact_Rattle_04	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\sfx_knight_impact_rattle_04_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Impacts\FX_LaserHitMetal\FX_Rattle\SFX_Knight_Impact_Rattle_04		4616
+	846157923	FX_EnemyLaserFire	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_playerlaserfire_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy\FX_EnemyLaserFire		7433
+	847342015	FX_Tutorial_PlayerCriticalHealth	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_playercriticalhealth_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_PlayerCriticalHealth		333294
+	855290747	FX_Tutorial_TimerRanOut	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_timerranout_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_TimerRanOut		286564
+	864520316	FX_EnemyMissleFire	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_enemymisslelaunch_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy\FX_EnemyMissleFire		9616
+	886450313	FX_Tutorial_QuickTurnReposition	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_quickturnrepsoition_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_QuickTurnReposition		458800
+	889073962	FX_HydraShieldHit	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_shieldhit_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hydra\FX_HydraShieldHit		8531
+	936097046	MX_Credits	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\mx_credits_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\MX_Credits\MX_Credits\MX_Credits		23216224
+	954236883	FX_Tutorial_DodgeRoll	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_dodgeroll_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_DodgeRoll		360836
+	956460461	FX_MissleReload	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_misslereload_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Missle\FX_MissleReload		11156
+	974917849	FX_MenuItemCancel	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\blockde-activate_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu\FX_MenuItemCancel		19453
+	985384082	FX_Tutorial_HydraTurretEntrance	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_hydraturretentrance_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_HydraTurretEntrance		548654
+	989717038	FX_HydraPlanetDestroyed	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_hydraplanetdestroyed_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hydra\FX_HydraPlanetDestroyed		32315
+	991692097	FX_Tutorial_MoveMouse	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_movemouse_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_MoveMouse		262558
+	1011096831	FX_Tutorial_QuickVictory	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_quickvictory_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_QuickVictory		707080
+	1011452153	FX_PlayerDeath	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_playerdeath_4f27f02b.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\FX_PlayerDeath		35478
+	1052783769	FX_Tutorial_QuickTurn	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_quickturn_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_QuickTurn		388172
+	1067957327	FX_Tutorial_FireWeapon	C:\PerforceWork\jwu_Jayson-Work-PC_8645\Studios\1301 - Three Piece Dinner\Rogue Theory\WwiseProject\RougueTheory\.cache\Windows\sfx\fx_tutorial_fireweapon_futz_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\Tutorial\FX_Tutorial_FireWeapon		237970
+

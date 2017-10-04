@@ -1,0 +1,96 @@
+Emitter INfo
+int   	numberofEffects 
+float 	emitter lifetime
+int 	numberofParticlesSystems
+
+Particle System
+	float	lifetime offset
+	float   lifetime
+	bool    Should particle face player?
+
+		Scale	
+	
+	int 	HowManyScaleVAlues
+	float   scale.x,
+		scale.y
+	float   scale time
+		
+		Rotation
+
+	int 	HowManyRotationValues
+	float	rotation value
+	float 	rotation time
+	
+		Velocity
+	
+	int  	HowManyVelocityValues
+	float	velocity.x, 
+		vel.y, 
+		vel.z
+	float	velocity time
+	
+		Colors
+	
+	int 	HowManyColorValues
+	ui	Colorvalue
+	float 	ColorTime
+	
+	float	gravity
+	float	positionoffset.x, 
+		posOff.y, 
+		posOff.z
+	
+	ui	SourceBlendMode
+	ui	DestinationBlendMode
+	int	numberOfParticles
+	float 	emitterRate		
+
+	string TextureId
+
+int numberofGeometrySystems
+
+	float   TimeOffset
+	float 	Lifetime
+	
+		Scale	
+	
+	int 	HowManyScaleVAlues
+	float   scale.x, 
+		scale.y, 
+		scale.z
+	float   scale time
+		
+		Rotation
+		
+	int 	HowManyRotationValues
+	float	rotation value.x, 
+		value.y, 
+		value.z
+	float 	rotation time
+	
+		Velocity
+	
+	int  	HowManyVelocityValues
+	float	velocity.x, 
+		vel.y, 
+		vel.z
+	float	velocity time
+	
+		Colors
+	
+	int 	HowManyColorValues
+	ui	Colorvalue
+	float 	ColorTime
+	
+	float	gravity
+	float	positionoffset.x, 
+		posOff.y, 
+		posOff.z
+
+	ui	SourceBlendMode
+	ui	DestinationBlendMode
+	int	numberOfGeometry
+	float 	emitterRate
+
+	string TextureId
+	string MeshID
